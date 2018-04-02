@@ -13,6 +13,7 @@ I built a super simple app that acts as a shopping list.  You can type in items 
 **Version 1.0**  
 *3/19/2018*  
 * Strictly speaking, this isn't my first bit of Python code that I've ever written, but it's the first in some time.  It's nice to get back to it.
+* I noticed the spacing between lines of text while running the app seems to grow narrower or wider depending on the medium used; I tried my best to make the spacing only appear as double-spaced and not much wider.
 
 **Version 1.1**  
 *3/22/2018*  
